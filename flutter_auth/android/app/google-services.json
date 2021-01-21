@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "1005074320306",
+    "firebase_url": "https://flutter-auth-8d348-default-rtdb.europe-west1.firebasedatabase.app/",
     "project_id": "flutter-auth-8d348",
     "storage_bucket": "flutter-auth-8d348.appspot.com"
   },
